@@ -3,7 +3,7 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-02T09:34:35.194822082+02:00"
+    created: "2021-09-02T10:05:54.135132319+02:00"
     description: A Helm chart for Kubernetes
     digest: 43745683f4e51e95524042f96de0072d798473a63a6e1f0d116c60ac7ef784f3
     maintainers:
@@ -12,6 +12,6 @@ entries:
     name: mychart
     type: application
     urls:
-    - mychart-0.1.0.tgz
+    - https://buehlmann.github.io/mycharts/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-02T09:34:35.19410412+02:00"
+generated: "2021-09-02T10:05:54.134536373+02:00"
